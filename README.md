@@ -5,5 +5,5 @@ First Binder for Data Science Level 8 course
 
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/AnjaKirchhof/my-first-binder/HEAD?labpath=%2Fvoila%2Frender%2Fdashboard-test.ipynb
+ :target: [https://mybinder.org/v2/gh/AnjaKirchhof/my-first-binder/HEAD?urlpath=%2Fvoila%2Frender%2Fdashboard-test.ipynb]
  
